@@ -1,8 +1,12 @@
 body{
     color: cornflowerblue;
 }
+.master{
+    color:yellow
+}
 .list{
     color:red
 }
 /*最新的*/
 /*list分支*/
+/*当前分支*/
