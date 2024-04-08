@@ -5,6 +5,7 @@ body{
     color:yellow
 }
 .list{
-    color:red
+    color:red;
+    text-decoration: none;
 }
 /*list分支3*/
